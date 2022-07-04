@@ -1,5 +1,6 @@
 # Huddle-LandingPage
 Styled Component Landing Page made with React.
+A one page Huddle Landing Page;
 
 # Getting Started with Create React App
 
